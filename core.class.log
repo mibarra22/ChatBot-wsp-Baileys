@@ -1,0 +1,166 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: '394C077149E2CB8992',
+    participant: undefined
+  },
+  messageTimestamp: 1685120261,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'Hola',
+  from: '51914214908'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: '90459CF6E5ADDC0A42',
+    participant: undefined
+  },
+  messageTimestamp: 1685120268,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'Delivery',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'Delivery',
+  from: '51914214908'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: '93998F889112488A45',
+    participant: undefined
+  },
+  messageTimestamp: 1685120274,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'Nombres completos:Miriam\n' +
+      'Entrada y Segundo: Sopa y Lomo\n' +
+      'Dirección: Sector 1\n' +
+      'Celular:924567542',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'Nombres completos:Miriam\n' +
+    'Entrada y Segundo: Sopa y Lomo\n' +
+    'Dirección: Sector 1\n' +
+    'Celular:924567542',
+  from: '51914214908'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: '8F08BFC46358706726',
+    participant: undefined
+  },
+  messageTimestamp: 1685120284,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'pago',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'pago',
+  from: '51914214908'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: '01B3951E00DD3F1A2C',
+    participant: undefined
+  },
+  messageTimestamp: 1685120289,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'Inicio',
+  from: '51914214908'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: '54CC0A3FB79B482BD8',
+    participant: undefined
+  },
+  messageTimestamp: 1685120296,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'Redes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'Redes',
+  from: '51914214908'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB38504EB2E3B52C6',
+    participant: undefined
+  },
+  messageTimestamp: 1685120303,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'inicio',
+  from: '51914214908'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51914214908@s.whatsapp.net',
+    fromMe: false,
+    id: 'FDFEB7D1F1F4A65C2E',
+    participant: undefined
+  },
+  messageTimestamp: 1685120316,
+  pushName: '51914214908',
+  message: Message {
+    conversation: 'Platos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Estelar Eventos SAC',
+  body: 'Platos',
+  from: '51914214908'
+}
